@@ -25,12 +25,13 @@ containerCards.innerHTML = `
                                 <h3>Informes📊</h3>
                             </div>
                             <div class = "card">
-                                <a href=""></a>
-                                <h3>Ventas📠</h3>
+                                <a href="./pages/ventas/ventas.html">
+                                    <h3>Ventas📠</h3>
+                                </a>
                             </div>
                             <div class = "card">    
                                 <a href=""></a>
-                                <h3>Compra de Productos↩</h3>
+                                <h3>Compra de Productos🧮</h3>
                             </div> 
                             <div class = "card">
                                 <a href=""></a>
