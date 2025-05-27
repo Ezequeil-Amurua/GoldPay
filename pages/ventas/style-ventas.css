@@ -4,6 +4,7 @@ body {
     margin: 0; 
     background-color: rgb(255, 255, 255); 
     overflow: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 a {
@@ -25,6 +26,7 @@ a {
 }
 
 .container-izquierdo h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0px 0px 0px 5px;
     padding: 2px;
     color: #f6f7f8;

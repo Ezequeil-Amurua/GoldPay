@@ -7,7 +7,7 @@ containerTitles.classList = "container-titles"
 containerTitles.innerHTML = `
 
                             <h1>GoldPay🟡</h1>
-                            <h2>Your agile and modern payment system.</h2
+                            <p>Your agile and modern payment system.</p>
 `
 
 containerMain.append(containerTitles)
